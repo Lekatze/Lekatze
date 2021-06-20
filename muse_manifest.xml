@@ -1,0 +1,188 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Lekatze.com" resolutions="1x" timestamp="1624144053956">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="portafolio.css" crc="4143719215" ref="portafolio"/>
+    <file name="indesign.css" crc="102738120" ref="indesign"/>
+    <file name="contacto.css" crc="3820279818" ref="contacto"/>
+    <file name="illustrator.css" crc="71945046" ref="illustrator"/>
+    <file name="photoshop.css" crc="419281500" ref="photoshop"/>
+    <file name="index.css" crc="335452241" ref="index"/>
+    <file name="sobre-mi.css" crc="4107397124" ref="sobre-mi"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="museutils.js" crc="3939489907" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="require.js" crc="4177726516" ref="index:contacto:sobre-mi:portafolio:photoshop:indesign:illustrator"/>
+    <file name="webpro.js" crc="3856315280" ref="contacto"/>
+    <file name="form_check.php" crc="4108222811" ref="contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacto"/>
+    <file name="form_process.php" crc="260214869" ref="contacto"/>
+    <file name="form-u663.php" crc="3910371559" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="u203-4.png" crc="371182151" ref="index"/>
+    <file name="u206-4.png" crc="3803200585" ref="index"/>
+    <file name="u211-4.png" crc="4288557392" ref="index"/>
+    <file name="u214-4.png" crc="3232324" ref="index"/>
+    <file name="u181-4.png" crc="4009846303" ref="index"/>
+    <file name="u185-4.png" crc="3933841416" ref="index"/>
+    <file name="pasted-svg-376x121.svg" crc="3917491694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 376x121_poster_.png" crc="426370197" ref="index"/>
+    <file name="gato.png" crc="3964862461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="luna.png" crc="4275460187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u631-4.png" crc="371182151" ref="contacto"/>
+    <file name="u632-4.png" crc="3803200585" ref="contacto"/>
+    <file name="u633-4.png" crc="4288557392" ref="contacto"/>
+    <file name="ig.png" crc="67931479" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="face.png" crc="351402809" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u634-4-a.png" crc="3232324" ref="contacto"/>
+    <file name="behance.png" crc="513906376" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="letras.png" crc="4160418356" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="sello.png" crc="456125454" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u443-4.png" crc="371182151" ref="sobre-mi"/>
+    <file name="u444-4.png" crc="3803200585" ref="sobre-mi"/>
+    <file name="u445-4-a.png" crc="4288557392" ref="sobre-mi"/>
+    <file name="u446-4.png" crc="3232324" ref="sobre-mi"/>
+    <file name="u495-4.png" crc="4767279" ref="sobre-mi"/>
+    <file name="foto.png" crc="4139820259" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="pasted-svg-713x1471.svg" crc="4284043139" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="pasted svg 713x1471_poster_.png" crc="3853879376" ref="sobre-mi"/>
+    <file name="coyote.png" crc="4165259788" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="u309-4.png" crc="371182151" ref="portafolio"/>
+    <file name="u310-4-a.png" crc="3803200585" ref="portafolio"/>
+    <file name="u217-4.png" crc="3814050469" ref="portafolio"/>
+    <file name="u220-4.png" crc="3893249175" ref="portafolio"/>
+    <file name="u223-4.png" crc="518112048" ref="portafolio"/>
+    <file name="u311-4.png" crc="4288557392" ref="portafolio"/>
+    <file name="u312-4.png" crc="3232324" ref="portafolio"/>
+    <file name="ojo.png" crc="514228560" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ps-2.svg" crc="4085571592" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ps-2_poster_.png" crc="4154933149" ref="portafolio"/>
+    <file name="blank.gif" crc="4208392903" ref="portafolio"/>
+    <file name="ps.svg" crc="4089031340" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ps_poster_.png" crc="455310710" ref="portafolio"/>
+    <file name="u257-4.png" crc="461610426" ref="portafolio"/>
+    <file name="id-2.svg" crc="4169898513" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="id-2_poster_.png" crc="4069448621" ref="portafolio"/>
+    <file name="id.svg" crc="381812967" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="id_poster_.png" crc="4158616402" ref="portafolio"/>
+    <file name="u272-4.png" crc="4060508408" ref="portafolio"/>
+    <file name="ai-2.svg" crc="289488242" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ai-2_poster_.png" crc="135731616" ref="portafolio"/>
+    <file name="ai.svg" crc="378510250" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="ai_poster_.png" crc="4010200373" ref="portafolio"/>
+    <file name="u278-4.png" crc="91129549" ref="portafolio"/>
+    <file name="mago.png" crc="307874609" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u763-4.png" crc="371182151" ref="photoshop"/>
+    <file name="u764-4.png" crc="3803200585" ref="photoshop"/>
+    <file name="u765-4.png" crc="4288557392" ref="photoshop"/>
+    <file name="u766-4.png" crc="3232324" ref="photoshop"/>
+    <file name="pintura digital.png" crc="440409381" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="vision.jpg" crc="286922629" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="vidente paleta.png" crc="440704595" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="vidente.jpg" crc="4017455262" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="el chef.jpg" crc="360779748" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="paleta chef.jpg" crc="526494074" seo="true" ref="photoshop">
+      <caption webpage="photoshop" alt=""/>
+    </file>
+    <file name="u775-4.png" crc="371182151" ref="indesign"/>
+    <file name="u776-4.png" crc="3803200585" ref="indesign"/>
+    <file name="u777-4.png" crc="4288557392" ref="indesign"/>
+    <file name="u778-4.png" crc="3232324" ref="indesign"/>
+    <file name="editorial.png" crc="189520091" seo="true" ref="indesign">
+      <caption webpage="indesign" alt=""/>
+    </file>
+    <file name="revista.png" crc="25834703" seo="true" ref="indesign">
+      <caption webpage="indesign" alt=""/>
+    </file>
+    <file name="revista 2.png" crc="3867264771" seo="true" ref="indesign">
+      <caption webpage="indesign" alt=""/>
+    </file>
+    <file name="revista 3.png" crc="288287640" seo="true" ref="indesign">
+      <caption webpage="indesign" alt=""/>
+    </file>
+    <file name="u787-4.png" crc="371182151" ref="illustrator"/>
+    <file name="u788-4.png" crc="3803200585" ref="illustrator"/>
+    <file name="u789-4.png" crc="4288557392" ref="illustrator"/>
+    <file name="u790-4.png" crc="3232324" ref="illustrator"/>
+    <file name="vector.png" crc="3847755628" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="la esclava.jpg" crc="430660784" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="escalva paleta.jpg" crc="3893558441" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="sin título-1.jpg" crc="3982604696" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="wisdom.jpg" crc="4222350761" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="wisdom palete.jpg" crc="3888907395" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+    <file name="wisdom-zoom.jpg" crc="4160850666" seo="true" ref="illustrator">
+      <caption webpage="illustrator" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="483522838" seo="true" mt="1624092456983" redirect="true"/>
+  <file name="contacto.html" crc="214050190" seo="true" mt="1624095286907" redirect="true"/>
+  <file name="sobre-mi.html" crc="3931101908" seo="true" mt="1624093400134" redirect="true"/>
+  <file name="portafolio.html" crc="28908580" seo="true" mt="1624092309675" redirect="true"/>
+  <file name="photoshop.html" crc="365132926" seo="true" mt="1624140293844" redirect="true"/>
+  <file name="indesign.html" crc="176032539" seo="true" mt="1624143812590" redirect="true"/>
+  <file name="illustrator.html" crc="98182086" seo="true" mt="1624141431718" redirect="true"/>
+</manifest>
